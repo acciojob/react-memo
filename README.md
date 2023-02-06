@@ -1,22 +1,20 @@
 
-# Calculator
-The task is to create a react based calculator which can perform the following operations:
--  Addition
--  Subtraction
--  Division
--  Multiplication
--  Clear All
--  Equals to
+# React Memo
+The task is to create a react based Memo using useState and useEffect hooks.
+Your task is to create a memo with the following functionalities
+- A add todo button that will add a task with content "New todo"
+- An increment button that will increase the count of the value next to it.
+- A memo where you can input the text and can add items of your choice where the text should be greater than 5 characters.
+- A submit button next to the input field that would add the item to your list
+
 
 
 
 
 The main page should look somewhat like this
 
-![image](https://user-images.githubusercontent.com/78348500/216955779-cae36991-fd35-47b7-ba4c-a886e9b1e04c.png)
+![image](https://user-images.githubusercontent.com/78348500/217004748-043ebc7c-e23d-488e-856b-bdf5e4228c8a.png)
 
-
-![image](https://user-images.githubusercontent.com/78348500/216955898-1e984d5d-31e4-4264-8d66-653824c41d67.png)
 
 
 
