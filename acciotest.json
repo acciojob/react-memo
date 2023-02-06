@@ -1,4 +1,4 @@
 {
-    "testRepo": "calculator-react-solution",
+    "testRepo": "react-memo-solution",
     "pathToFile": "cypress/integration/tests/test.spec.js"
 }
